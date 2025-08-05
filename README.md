@@ -22,11 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
-
----
-
 ## 📫 Let’s Connect
 - 💼 Email: *lmlui778@gmail.com*
 

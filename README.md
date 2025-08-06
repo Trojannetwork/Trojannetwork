@@ -3,7 +3,7 @@
 
 🎓 I'm a Software Engineering student at **ISBAT University**, passionate about building, learning, and growing in the world of tech.
 
-🚀 I'm currently focused on:
+**I'm currently focused on:**
 - 🔧 Learning the fundamentals of **C**, **Python**, and **Java**
 - 🌱 Improving my skills every day as I work towards mastering my craft
 - 🛠️ Building simple, meaningful projects to sharpen my understanding
